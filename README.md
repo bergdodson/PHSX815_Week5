@@ -13,4 +13,4 @@ All of the executables can be called from the command line with the `-h` or `--h
 
 ## Results
 This is the image that was produced by the code.
- 	![Image Broken](RandomQuad.pdf)
+ 	![Image Broken](QuadraticRSampling.pdf)
